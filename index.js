@@ -59,7 +59,7 @@ export default new Router({
       component: PatrolRecord
     },
     {
-      path: '*',
+      path: 111222'*',
       redirect: '/'
     }
   ]
