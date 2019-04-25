@@ -167,7 +167,7 @@
     background-color:#f1f1f1;
     border-bottom: 1px solid #e1e1e1;
     #image-button + #image-button{
-      margin-left: 50px;
+      margin-left: 40px;
     }
   }  
 </style>
